@@ -1,0 +1,14 @@
+flask==1.1.2
+flask-request-id-header==0.1.1
+pandas==1.1.0
+python-json-logger==2.0.1
+docx2txt>=0.8
+nltk>=3.5
+numpy>=1.19.1
+pdfminer.six>=20200517
+pdfplumber>=0.5.23
+phonenumbers>=8.12.7
+spacy
+stemming>=1.0.1
+tika>=1.24
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.3.1/en_core_web_sm-2.3.1.tar.gz
